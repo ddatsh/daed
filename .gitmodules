@@ -1,3 +1,4 @@
 [submodule "wing"]
 	path = wing
 	url = git@github.com:ddatsh/dae-wing.git
+	branch = main
